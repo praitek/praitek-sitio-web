@@ -1,0 +1,6 @@
+# Praitek — robots.txt
+# Se permite el acceso a todos los rastreadores (buscadores y buscadores de IA).
+User-agent: *
+Allow: /
+
+Sitemap: https://praitek.com/sitemap.xml
